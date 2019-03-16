@@ -9,6 +9,8 @@ Applicationserver: Lädt Programm führt
 Webserver: Schnittstelle nach außen, Sicherheitsrelevante komponente, Cached, .... z.B. Apache, nginx, lighthttp
 Reverse-Proxy: z.B. nginx, 
 
+## Statische Seiten - z.B. hugo
+
 Seitengestaltung mit Hugo
 
 Links
@@ -27,3 +29,8 @@ hugo serve -d // startet server, baut die seite im draftmodus , -> Seite ist unt
 
 VS Code extensions 
 * Markdown all in one
+
+## Wordpress
+
+lokal unter Windows: Xampp 
+evtl. besser Docker.
