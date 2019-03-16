@@ -1,5 +1,5 @@
 # wordpress-kurs
-Notizen zum Wordpresskurs
+Notizen zum Wordpresskurs (Philipp Weißmann, Jürgen Krauß)
 
 https://derphilipp.github.io/schulung_git/#1
 https://derphilipp.github.io/schulung_webseiten/#1
@@ -48,6 +48,11 @@ Installation von Xampp siehe
 
 **Themes** bringen layout Änderungen.
 **Plugins** bringen Frontend oder auch Bearbeitungsmöglichkeiten/eigenschaften.
+
+Was wenn ein bösses Plugin installiert wurde:
+Im WP-Verzeichnis unter \xampp\htdocs\wordpress\wp-content\plugins das neu installierte Plugin löschen (kann auch unsichtbar sein).
+
+Plugins werden nicht automatisch aktualisiert. (kann über 'Easy Plugin..' evtl. automatisiert werden).
 
 
 
