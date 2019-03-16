@@ -17,6 +17,11 @@ Links
 Themes:
 https://themes.gohugo.io/
 
+Ansonsten suche hugo theme
+
+Es wird nicht immer vollständig 1:1 umgesetzt. Im Zweifelsfall muss man auf der Homepage nachlesen ob voraussetzungen bzw. bestimmte Dateien vorhanden sein müssen.
+**Grundsätzlich** müssen der theme name in config.toml und im theme der Name in der theme.toml und das themeverzeichnis übereinstimmen.
+
 Beispiel Ananke:
 https://github.com/budparr/gohugo-theme-ananke/archive/2.40.zip
 
@@ -30,7 +35,19 @@ hugo serve -d // startet server, baut die seite im draftmodus , -> Seite ist unt
 VS Code extensions 
 * Markdown all in one
 
+
+
 ## Wordpress
 
 lokal unter Windows: Xampp 
 evtl. besser Docker.
+
+### Xampp
+
+Installation von Xampp siehe 
+
+**Themes** bringen layout Änderungen.
+**Plugins** bringen Frontend oder auch Bearbeitungsmöglichkeiten/eigenschaften.
+
+
+
